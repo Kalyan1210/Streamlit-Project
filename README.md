@@ -1,7 +1,32 @@
 # Streamlit-Project
 Avocado Price and supply prediction and optimization using streamlit web app
 
-#Features of the Interface
+# Workflow of Project:
+
+## For Prediction
+Business Understanding
+
+Data Understanding
+
+Data Preperation
+
+Modelling and Evaluation
+
+Saving and Loading Best Model
+
+## For Optimization:
+Variables Addition
+
+Constraints Addition
+
+Maximize function
+
+Objective 
+
+Final Distribution with optimal function
+
+## For WebApp:
+Features of the Interface
 
 User Inputs:
 Dropdown for selecting a region.
