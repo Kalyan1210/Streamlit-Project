@@ -46,3 +46,7 @@ Interactive Visuals:
 Bar graph comparing:
 Predicted demand vs. actual allocation.
 Revenue contributions by region
+
+### Pushed to github
+
+### Streamlit Cloud deployment in approval of github
