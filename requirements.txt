@@ -1,6 +1,5 @@
-pip install --upgrade pip
-streamlit==1.11.0
-pandas==1.4.4
+streamlit
+pandas
 numpy
 scikit-learn
 joblib
