@@ -3,3 +3,5 @@ pandas
 numpy
 scikit-learn
 joblib
+gurobipy_pandas
+gurobipy_ml
